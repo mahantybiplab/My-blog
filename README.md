@@ -33,7 +33,7 @@ A simple blog built with **Node.js** using the **EJS** templating engine for ren
 3. Create a `.env` file in the root directory to store environment variables. Example `.env` file:
 
     ```env
-    MONGO_URI=mongodb://localhost:27017/myblog
+    MONGO_URI= your_mongoDB_url
     JWT_SECRET=your_jwt_secret_key
     ```
 
